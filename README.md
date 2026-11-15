@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wara-env&label=Profile%20views&color=0e75b6&style=flat" alt="wara-env" /> </p>
 - 🪡 just 1% better every day
 
-- 🌱 I’m currently learning **Framework, Databases, Networking, Embedded & Cyber Security, DevOps!**
+- 🌱 I’m currently learning **Framework, Databases, Networking, Embedded System, Cyber Security & DevOps!**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1WQqAPtzjl_4oz5VDq2egTdhK24U0Hmne](https://drive.google.com/drive/folders/1WQqAPtzjl_4oz5VDq2egTdhK24U0Hmne)
 
