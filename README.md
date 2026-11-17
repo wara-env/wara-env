@@ -14,7 +14,7 @@
 
 - 🪡 ***Just 1% better every day***
 - 🌱 Currently learning **Frameworks, Databases, Networking, Embedded Systems, Cyber Security & DevOps**
-- 🔐 Very interested in security systems & cyber security
+- 🔐 Fast Learner and adaptation
 - 👨‍💻 All my projects: [Google Drive](https://drive.google.com/drive/folders/1WQqAPtzjl_4oz5VDq2egTdhK24U0Hmne)
 - 📫 Reach me: **4studyan25@gmail.com**
 - ⚡ Fun fact: I think I'm lazy but ambitious
