@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend - backend developer from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wara-env&label=Profile%20views&color=0e75b6&style=flat" alt="wara-env" /> </p>
+
 - 🪡 ***just 1% better every day***
 
 - 🌱 I’m currently learning **Framework, Databases, Networking, Embedded System, Cyber Security & DevOps!**
