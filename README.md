@@ -94,14 +94,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=wara-env&theme=dark" alt="GitHub streak" />
-
-</div>
-
 ---
 
 ## 🌐 Connect with me
@@ -117,3 +109,16 @@
 <a href="https://instagram.com/wara_env" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
 </div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=wara-env&theme=dark" alt="GitHub streak" />
+
+</div>
+
+---
+
