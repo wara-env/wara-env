@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="terminal.svg" alt="terminal profile" />
+</div>
 
 <div align="center">
 
