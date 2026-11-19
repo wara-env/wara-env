@@ -8,7 +8,7 @@
 
 ### A passionate Frontend & Backend Developer from Indonesia 🇮🇩
 
-<img src="https://komarev.com/ghpvc/?username=wara-env&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?wara-env=wara-env&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -100,12 +100,12 @@
 
 ## 🌐 Connect with me
 
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/USERNAME"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="https://dev.to/USERNAME"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://kaggle.com/USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-<a href="https://linktr.ee/USERNAME"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+<a href="https://linkedin.com/in/wara-env"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/wara-env"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://x.com/wara-env"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="https://dev.to/wara-env"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+<a href="https://kaggle.com/wara-env"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+<a href="https://linktr.ee/wara-env"><img src="https://img.shields.io/badge/Linktree-43E55E?style=for-the-badge&logo=linktree&logoColor=white" /></a>
 
 </div>
 
@@ -117,12 +117,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8fbf8f&icon_color=e0a458&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=8fbf8f&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?wara-env=wara-env&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8fbf8f&icon_color=e0a458&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?wara-env=wara-env&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=8fbf8f&text_color=c9d1d9" />
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0d1117&ring=8fbf8f&fire=e0a458&currStreakNum=e0a458&sideNums=e0a458&currStreakLabel=8fbf8f&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=wara-env&hide_border=true&background=0d1117&ring=8fbf8f&fire=e0a458&currStreakNum=e0a458&sideNums=e0a458&currStreakLabel=8fbf8f&sideLabels=c9d1d9&dates=8b949e" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=8fbf8f&line=e0a458&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?wara-env=wara-env&bg_color=0d1117&color=8fbf8f&line=e0a458&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -135,3 +135,4 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wara-env/wara-env/output/github-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/wara-env/wara-env/output/github-snake-dark.svg" />
 </picture>
+
