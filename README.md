@@ -50,10 +50,13 @@
     </td>
   </tr>
   <tr>
-    <td><b>Framework</b></td>
+    <td><b>Framework & Library</b></td>
     <td>
       <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
       <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+      <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
     </td>
   </tr>
   <tr>
