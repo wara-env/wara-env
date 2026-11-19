@@ -92,11 +92,9 @@
   </tr>
 </table>
 
----
-
----
-
 <div align="center">
+
+---
 
 ## 🌐 Connect with me
 
