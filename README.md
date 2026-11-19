@@ -113,9 +113,16 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=wara-env&theme=dark" alt="GitHub streak" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8fbf8f&icon_color=e0a458&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=8fbf8f&text_color=c9d1d9" />
+
+<img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=0d1117&ring=8fbf8f&fire=e0a458&currStreakNum=e0a458&sideNums=e0a458&currStreakLabel=8fbf8f&sideLabels=c9d1d9&dates=8b949e" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=8fbf8f&line=e0a458&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
