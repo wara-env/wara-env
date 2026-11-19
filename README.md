@@ -8,7 +8,7 @@
 
 ### A passionate Frontend & Backend Developer from Indonesia 🇮🇩
 
-<img src="https://komarev.com/ghpvc/?wara-env=wara-env&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=wara-env&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
@@ -131,4 +131,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wara-env/wara-env/output/github-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/wara-env/wara-env/output/github-snake-dark.svg" />
 </picture>
+
 
