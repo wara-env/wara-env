@@ -4,7 +4,6 @@
 
 <div align="center">
 ## Hi 👋, I'm Maheswara
-
 ### A passionate Frontend & Backend Developer from Indonesia 🇮🇩
 
 <img src="https://komarev.com/ghpvc/?username=wara-env&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
