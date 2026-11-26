@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="top.gif" width="150" alt="decor" />
+</div>
+
+<div align="center">
   <img src="terminal.svg" width="100%" alt="terminal profile" />
 </div>
 
@@ -113,8 +117,8 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=wara-env&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8fbf8f&icon_color=e0a458&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wara-env&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=8fbf8f&text_color=c9d1d9" />
+<img width="49%" src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+<img width="49%" src="profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=wara-env&hide_border=true&background=0d1117&ring=8fbf8f&fire=e0a458&currStreakNum=e0a458&sideNums=e0a458&currStreakLabel=8fbf8f&sideLabels=c9d1d9&dates=8b949e" />
 
@@ -131,5 +135,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wara-env/wara-env/output/github-snake.svg" />
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/wara-env/wara-env/output/github-snake-dark.svg" />
 </picture>
-
-
