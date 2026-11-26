@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="top.gif" width="100%" alt="decor" />
+  <img src="terminal.svg" width="100%" alt="terminal profile" />
 </div>
 
 <div align="center">
-  <img src="terminal.svg" width="100%" alt="terminal profile" />
+  <img src="top.gif" width="100%" alt="decor" />
 </div>
 
 <div align="center">
